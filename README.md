@@ -7,7 +7,8 @@ Here we have information about our teams, products and services, and development
 ## Table of Contents
 
 - [Issues](#issues)
-- [GitHub Projects](#github-projects)
+- [Milestones](#milestones)
+- [Projects](#projects)
   - [Columns our Projects](#columns-our-projects)
     - [New](#new)
     - [Backlog](#backlog)
@@ -18,41 +19,55 @@ Here we have information about our teams, products and services, and development
 
 ## Issues
 
-GitHub issues are a feature of the popular code collaboration and version control platform, GitHub. They are used to track bugs, feature requests, and other tasks related to software development. Here is a brief overview of their purpose and some examples of how they are used:
+Issues are used to track bugs, feature requests, and other tasks related to software development. Here is a brief overview of their purpose and some examples of how they are used:
 
 Purpose:
 
-- Keep track of tasks and bugs: Issues can be used to keep track of tasks that need to be completed or bugs that need to be fixed in a particular project.
-- Assign tasks: Issues can be assigned to team members, making it clear who is responsible for completing the task.
-- Prioritize tasks: Issues can be labeled with priority levels, making it easy to see which tasks are the most urgent or important.
-- Facilitate communication: Users can comment on issues to provide additional information, ask questions, or provide updates.
+- **Keep track of tasks and bugs**: Issues can be used to keep track of tasks that need to be completed or bugs that need to be fixed in a particular project.
+- **Assign tasks**: Issues can be assigned to team members, making it clear who is responsible for completing the task.
+- **Prioritize tasks**: Issues can be labeled with priority levels, making it easy to see which tasks are the most urgent or important.
+- **Facilitate communication**: Users can comment on issues to provide additional information, ask questions, or provide updates.
 
 Examples:
 
-- Bug reports: If a user discovers a bug in a piece of software, they can create an issue to report it. The issue should include a description of the bug, steps to reproduce it, and any other relevant information.
-- Feature requests: If a user has an idea for a new feature or improvement to existing functionality, they can create an issue to suggest it. The issue should include a description of the feature, why it is needed, and any other relevant information.
-- Tasks: Issues can also be used to track tasks that need to be completed, such as updating documentation, fixing formatting issues, or writing new code.
-- Discussions: Issues can be used to start discussions about particular topics related to the project, such as design decisions or future directions.
+- **Bug reports**: If a user discovers a bug in a piece of software, they can create an issue to report it. The issue should include a description of the bug, steps to reproduce it, and any other relevant information.
+- **Feature requests**: If a user has an idea for a new feature or improvement to existing functionality, they can create an issue to suggest it. The issue should include a description of the feature, why it is needed, and any other relevant information.
+- **Tasks**: Issues can also be used to track tasks that need to be completed, such as updating documentation, fixing formatting issues, or writing new code.
+- **Discussions**: Issues can be used to start discussions about particular topics related to the project, such as design decisions or future directions.
 
-## GitHub Projects
+## Milestones
 
-GitHub projects are another feature of the GitHub platform that help teams organize and manage their work. Projects provide a way to visualize and track the progress of work items such as issues and pull requests in a more organized way than simply using a list of issues. Here is an overview of their purpose and some examples of how they are used:
+GitHub milestones help teams organize and track progress towards our project goals. They are a way of grouping related issues together, and they can be used to track progress towards specific objectives or deadlines. Here is a brief overview of their purpose and some examples of how they are used:
 
 Purpose:
 
-- Organize work: Projects can be used to organize work items, such as issues or pull requests, into a more structured format than a simple list.
-- Track progress: Projects provide a visual representation of the progress of work items, making it easy to see what has been completed and what still needs to be done.
-- Collaborate: Projects can be shared with team members, making it easy for everyone to stay on the same page and work together more effectively.
-- Prioritize work: Projects can be organized into columns, allowing you to prioritize work items and ensure that the most important items are completed first.
+- **Organize related issues**: Milestones can be used to group related issues together, making it easier to see which issues are related to which goals or objectives.
+- **Track progress**: Milestones can be used to track progress towards specific goals or deadlines. Each milestone has an associated progress bar that shows how many of its related issues have been completed.
+- **Set deadlines**: Milestones can have due dates associated with them, which can help teams stay on track and meet their objectives.
 
 Examples:
 
-- Sprint planning: Projects can be used to organize work items for a particular sprint or development cycle. Items can be added to columns representing different stages of the development process, such as "To do", "In progress", and "Done".
-- Bug triage: Projects can be used to organize and prioritize bugs that need to be fixed. Items can be added to columns representing different severity levels, such as "Critical", "High", and "Low".
-- Feature development: Projects can be used to organize and track the development of new features. Items can be added to columns representing different stages of development, such as "Planning", "In progress", and "Testing".
-- Team workflows: Projects can be used to organize and track the progress of team workflows, such as code reviews or documentation updates. Items can be added to columns representing different stages of the workflow, such as "Requested", "In progress", and "Approved".
+- **Release cycles**: If a software development team is working on a new release of their product, they might create a milestone for each release cycle. Each milestone would include a set of related issues that need to be completed before the release can be shipped.
+- **Sprint goals**: Agile development teams might use milestones to track progress towards specific sprint goals. Each milestone would represent a sprint, and the associated issues would be the tasks that need to be completed during that sprint.
+- **Feature sets**: If a team is working on a complex feature that requires multiple issues to be completed, they might create a milestone to track progress towards that feature. The milestone would include all of the related issues, and the progress bar would show how much of the feature has been completed.
 
-Overall, GitHub projects provide a way for teams to organize and manage their work more effectively. By using projects in combination with other GitHub features such as issues and pull requests, teams can work together more efficiently and deliver high-quality software more quickly.
+## Projects
+
+GitHub projects help teams organize and manage their work. Projects provide a way to visualize and track the progress of work items such as issues and pull requests in a more organized way than simply using a list of issues. Here is an overview of their purpose and some examples of how they are used:
+
+Purpose:
+
+- **Organize work**: Projects can be used to organize work items, such as issues or pull requests, into a more structured format than a simple list.
+- **Track progress**: Projects provide a visual representation of the progress of work items, making it easy to see what has been completed and what still needs to be done.
+- **Collaborate**: Projects can be shared with team members, making it easy for everyone to stay on the same page and work together more effectively.
+- **Prioritize work**: Projects can be organized into columns, allowing you to prioritize work items and ensure that the most important items are completed first.
+
+Examples:
+
+- **Sprint planning**: Projects can be used to organize work items for a particular sprint or development cycle. Items can be added to columns representing different stages of the development process, such as "To do", "In progress", and "Done".
+- **Bug triage**: Projects can be used to organize and prioritize bugs that need to be fixed. Items can be added to columns representing different severity levels, such as "Critical", "High", and "Low".
+- **Feature development**: Projects can be used to organize and track the development of new features. Items can be added to columns representing different stages of development, such as "Planning", "In progress", and "Testing".
+- **Team workflows**: Projects can be used to organize and track the progress of team workflows, such as code reviews or documentation updates. Items can be added to columns representing different stages of the workflow, such as "Requested", "In progress", and "Approved".
 
 ### Columns our Projects
 
