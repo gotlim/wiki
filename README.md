@@ -1,21 +1,21 @@
-# Gotlim Internal Wiki
+# Gotlim Wiki
 
-This wiki serves as a central location for all of our team members to access important information about our startup and to collaborate on projects.
+This wiki serves as a central location for all team members and collaborators to access relevant information about software development on the startup.
 
-Here we have information about our teams, products and services, and development processes. We use GitHub as our project management tool, and we have organized our projects into several columns that represent the different stages of work.
+We use GitHub as our project management tool, and we organize our GitHub projects' boards into several columns to represent the different stages of work.
 
 ## Table of Contents
 
-- [Issues](#issues)
-- [Milestones](#milestones)
-- [Projects](#projects)
-  - [Columns our Projects](#columns-our-projects)
-    - [New](#new)
-    - [Backlog](#backlog)
-    - [Ready](#ready)
-    - [In Progress](#in-progress)
-    - [In Review](#in-review)
-    - [Done](#done)
+- [Gotlim Wiki](#gotlim-wiki)
+  - [Table of Contents](#table-of-contents)
+  - [Issues](#issues)
+  - [Milestones](#milestones)
+  - [Projects](#projects)
+    - [GitHub Projects Board Columns](#github-projects-board-columns)
+      - [Backlog](#backlog)
+      - [In progress](#in-progress)
+      - [In review](#in-review)
+      - [Done](#done)
 
 ## Issues
 
@@ -69,7 +69,7 @@ Examples:
 - **Feature development**: Projects can be used to organize and track the development of new features. Items can be added to columns representing different stages of development, such as "Planning", "In progress", and "Testing".
 - **Team workflows**: Projects can be used to organize and track the progress of team workflows, such as code reviews or documentation updates. Items can be added to columns representing different stages of the workflow, such as "Requested", "In progress", and "Approved".
 
-### Columns our Projects
+### GitHub Projects Board Columns
 
 Our GitHub projects are organized into several columns that represent the different stages of work for our tasks and issues. Each column represents a specific stage in the development process and is designed to help us stay organized and on track as we work on our project.
 
@@ -77,23 +77,11 @@ By using these columns in combination with GitHub's project management tools, we
 
 Here's a detailed explanation of each of the columns in our project:
 
-#### New
-
-This column is where we add new tasks or issues that have been identified but have not yet been prioritized or added to the backlog. The column serves as a holding area for items that need to be evaluated and prioritized before they can be added to the backlog.
-
-Examples of tasks that might be added to the New column include new feature requests, bug reports, or other issues that have been identified by members of our team or by our users.
-
 #### Backlog
 
 The Backlog column is where we keep a prioritized list of tasks or issues that need to be addressed in the future. This column serves as a central location for all of the work that needs to be done on our project.
 
 Examples of tasks that might be added to the Backlog column include long-term goals for our project, major features that we want to implement, or a list of tasks that need to be completed in a specific order.
-
-#### Ready
-
-The Ready column is where we move tasks or issues that are ready to be worked on by the team. This column serves as a queue for work that is ready to be started.
-
-Examples of tasks that might be added to the Ready column include tasks that have been fully defined and are waiting for someone to start working on them, or tasks that are at the top of our prioritized backlog.
 
 #### In progress
 
